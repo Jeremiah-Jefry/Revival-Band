@@ -2,6 +2,11 @@
 ## 2. Yesu Ennaku Jeevan
 **Key: C | Tempo: Upbeat**
 
+### INTRO
+```text
+C / G / F / C
+```
+
 ### Verse
 ```text
 C                      F
