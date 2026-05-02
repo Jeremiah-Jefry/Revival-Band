@@ -1,10 +1,10 @@
-# 🎸 Revival Band
+# Revival Band
 
 > *A digital songbook of Tamil Christian worship chord sheets — organized, accessible, and always up to date.*
 
 ---
 
-## 📖 About Us
+## About Us
 
 **Revival Band** is a worship team passionate about leading praise and worship through Tamil Christian songs. We believe music is a powerful way to glorify God, and this repository is our **shared songbook** — a place where every band member can pull up chord sheets and setlists instantly, whether it's during rehearsal or right before a Sunday service.
 
@@ -12,7 +12,7 @@ All our songs are written in Tamil with chords placed directly above the lyrics,
 
 ---
 
-## 📂 How This Repo Is Organized
+## How This Repo Is Organized
 
 ```
 Revival-Band/
@@ -31,7 +31,7 @@ Revival-Band/
 
 ---
 
-## 🎵 Song Library
+## Song Library
 
 Jump straight to any song:
 
@@ -43,7 +43,7 @@ Jump straight to any song:
 
 ---
 
-## 📅 Sunday Setlists
+## Sunday Setlists
 
 Each setlist is a ready-to-use chord booklet with all the songs for that Sunday — just open and play.
 
@@ -53,7 +53,7 @@ Each setlist is a ready-to-use chord booklet with all the songs for that Sunday 
 
 ---
 
-## 📝 How to Read the Chord Sheets
+## How to Read the Chord Sheets
 
 Every song uses a simple **chord-over-lyrics** format — chords sit right above the word where the change happens:
 
@@ -76,7 +76,7 @@ C#                 F#
 
 ---
 
-## 📜 License
+## License
 
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 
